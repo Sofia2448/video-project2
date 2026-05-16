@@ -1,0 +1,8 @@
+body {font-family:Arial; margin:0; padding:0; text-align:center;}
+header {background:#eeddff; padding:15px; color:#440088;}
+nav a {margin:0 10px; text-decoration:none; font-weight:bold; color:#440088;}
+main {padding:20px;}
+video {width:50%;}
+button {background:#440088; color:white; border-radius:8px; padding:10px 20px; margin-bottom:20px;}
+audio {width:30%; display:block; margin:20px auto;}
+footer {margin-top:40px; background:#eeddff; padding:10px; font-size:14px;}
